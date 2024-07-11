@@ -1,0 +1,29 @@
+Today's Task: Run Angular Application
+Angular 14: 
+1. Install Node.js and npm :
+   - Go to the Node.js official website: (https://nodejs.org/). 
+       https://www.npackd.org/p/org.nodejs.NodeJS/14.15 
+   - Download the LTS version of Node.js for your operating system. 
+   - Run the downloaded installer and follow the installation wizard instructions. 
+
+2. Install Angular CLI: 
+   - Open a terminal or command prompt. 
+   - Run the following command to install Angular CLI globally: 
+     npm install -g @angular/cli@14 
+
+Run application in VS code write  > ng serve
+
+Kindly follow below GitHub link and implement project where we have removed few Components mentioned below , you have to add missing components by taking existing code as a reference::
+ 
+[1]Removed delete button from user view✔️(C:\Users\HARDIK\OneDrive\Desktop\Placement\TatvaSoft\Angular_VCProject-main\src\app\admin-side\user\user.component.html)
+[2]Removed Last Name & Phone Number Field from add user✔️(C:\Users\HARDIK\OneDrive\Desktop\Placement\TatvaSoft\Angular_VCProject-main\src\app\admin-side\user\add-user\add-user.component.html)
+[3]Removed Address Field From edit user✔️(C:\Users\HARDIK\OneDrive\Desktop\Placement\TatvaSoft\Angular_VCProject-main\src\app\admin-side\user\update-user\update-user.component.html)
+[4]Removed Edited Button From Mission View✔️(C:\Users\HARDIK\OneDrive\Desktop\Placement\TatvaSoft\Angular_VCProject-main\src\app\admin-side\mission\mission.component.html)
+[5]Removed MissionTitle & MissionTheme Field From add mission✔️(C:\Users\HARDIK\OneDrive\Desktop\Placement\TatvaSoft\Angular_VCProject-main\src\app\admin-side\mission\add-mission\add-mission.component.html)
+[6]Removed TotalSheets Field From edit mission✔️(C:\Users\HARDIK\OneDrive\Desktop\Placement\TatvaSoft\Angular_VCProject-main\src\app\admin-side\mission\update-mission\update-mission.component.html)
+[7]Removed delete & edit button from mission skill✔️(C:\Users\HARDIK\OneDrive\Desktop\Placement\TatvaSoft\Angular_VCProject-main\src\app\admin-side\missionskill\missionskill.component.html)
+[8]Removed SkillName Field From add mission skill✔️(C:\Users\HARDIK\OneDrive\Desktop\Placement\TatvaSoft\Angular_VCProject-main\src\app\admin-side\missionskill\add-mission-skill\add-mission-skill.component.html)
+[9]Removed delete & edit button from mission theme✔️(C:\Users\HARDIK\OneDrive\Desktop\Placement\TatvaSoft\Angular_VCProject-main\src\app\admin-side\missiontheme\missiontheme.component.html)
+[10]Removed Status Field From add mission skill✔️(C:\Users\HARDIK\OneDrive\Desktop\Placement\TatvaSoft\Angular_VCProject-main\src\app\admin-side\missionskill\add-mission-skill\add-mission-skill.component.html)
+ 
+https://github.com/sourabhtatva/Angular_VCProject.git
